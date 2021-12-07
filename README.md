@@ -1,5 +1,5 @@
 This repo was created by Vuepress
-Github Page: https://raknatee.github.io/play-vuepress/
+Github Page: https://raknatee.github.io/python-7-10/
 
 # How to get started
 
