@@ -2,7 +2,11 @@
 
 # Lessons
 
-## [Lesson 1: Introduction and Variables](/lessons/01.md)
+## [Lesson 1: Introduction and Variables](./lessons/01/index.md)
 
-## [Lesson 2: List, Boolean and Condition](/lessons/02.md)
+## [Lesson 2: List, Boolean and Condition](./lessons/02/index.md)
+
+## [Lesson 3: Loop ](./lessons/03/index.md)
+## [Lesson 4: Input](./lessons/04/index.md)
+
 

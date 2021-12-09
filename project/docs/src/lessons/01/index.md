@@ -77,5 +77,13 @@ my_name = "Ally Alien"
 print(len(my_name)) # 10
 ```
 
+### Comment
+```python
+# print("Hello 1")
+# print("Hello 2")
+print("Hello 3") # print("Hello 6")
+# print("Hello 4")
+```
+
 ## Exercises
 PythonExercise.pdf Page 14-17

@@ -58,21 +58,19 @@ print(bool2)
 
 
 
-#### Pineapples and Zebras
+#### Pink and Blue bees
 
+![bee](./bee.png)
 
-<div align="center">
-<img  :src="$withBase('/pz.png')">
-</div>
 
 ```python
-n_pineapples = 5
-n_zebras     = 2
+pink_bees = 2
+blue_bees = 4
 
-answer1 = n_pineapples > 5
-answer2 = n_zebras < n_pineapples 
-answer3 = n_zebras >= 1
-answer4 = n_pineapples > 20
+answer1 = pink_bees > 5
+answer2 = blue_bees < pink_bees 
+answer3 = blue_bees >= 1
+answer4 = pink_bees > 20
 
 print(answer1)
 print(answer2)
@@ -81,25 +79,34 @@ print(answer4)
 ```
 
 #### Condition
+::: warning
+Please be careful about **Indent**
+
+```
+if ...
+	print()
+^^^^ 1 tab
+```
+:::
 ```python
-n_pineapples = 5
-n_zebras     = 2
-if( n_pineapples > n_zebras):
-	print("We have enough food to feed the zebras")
+pink_bees = 2
+blue_bees = 4
+if(pink_bees < blue_bees):
+	print("There are Pink Bees less than Blue Bees")
 ```
 ```python
-n_pineapples = 2
-n_zebras     = 5
-if( n_pineapples > n_zebras):
-	print("We have enough food to feed the zebras")
+pink_bees = 5
+blue_bees = 4
+if(pink_bees < blue_bees):
+	print("There are Pink Bees less than Blue Bees")
 ```
-```python
-n_pineapples = 2
-n_zebras     = 5
-if( n_pineapples > n_zebras):
-	print("We have enough food to feed the zebras")
+```python{5,6}
+pink_bees = 5
+blue_bees = 4
+if(pink_bees < blue_bees):
+	print("There are Pink Bees less than Blue Bees")
 else:
-	print("Noooo, we need more pineapples")
+	print("There are Pink Bees more than Blue Bees")
 ```
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTA0NDUxMDA5MiwxOTkyODI1MjIzLDE0Nz
