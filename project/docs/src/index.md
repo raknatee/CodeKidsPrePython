@@ -12,5 +12,8 @@
 
 ## [Lesson 5: Robot and Turtle](./lessons/05/index.md)
 
+## [Lesson 6: Square Spirograph](./lessons/06/index.md)
+
+## [Lesson 7: Circle spiral](./lessons/07/index.md)
 
 
