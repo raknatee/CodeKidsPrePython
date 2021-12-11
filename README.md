@@ -1,5 +1,5 @@
 This repo was created by Vuepress
-Github Page: https://raknatee.github.io/python-7-10/
+Github Page: https://raknatee.github.io/CodeKidsPrePython
 
 # How to get started
 
