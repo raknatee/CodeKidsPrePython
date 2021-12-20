@@ -16,4 +16,8 @@
 
 ## [Lesson 7: Circle spiral](./lessons/07/index.md)
 
+## [Lesson 8: Star(s)](./lessons/08/index.md)
+
+## [Lesson 9: Starry Night]()
+
 

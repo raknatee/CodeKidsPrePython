@@ -1,5 +1,8 @@
 # Lesson 7: Circle spiral
 
+> This lesson learns are based on Python book page 82-89
+
+
 ## Tools
 [https://trinket.io/](https://trinket.io/)
 
