@@ -18,6 +18,6 @@
 
 ## [Lesson 8: Star(s)](./lessons/08/index.md)
 
-## [Lesson 9: Starry Night]()
+## [Lesson 9: Starry Night](./lessons/09/index.md)
 
 
