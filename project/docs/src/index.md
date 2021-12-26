@@ -21,3 +21,6 @@
 ## [Lesson 9: Starry Night](./lessons/09/index.md)
 
 
+# Optinal Projects
+
+## [Project 1: Amoung us](./lessons/p-01/index.md)
