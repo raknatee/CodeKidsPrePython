@@ -16,7 +16,12 @@ main.py
 print(1+2)
 print(4+5)
 ```
-
+::: details output
+```
+3
+9
+```
+:::
 main.py
 ```python
 def find_sum(a,b):
@@ -25,7 +30,12 @@ def find_sum(a,b):
 find_sum(1, 2)
 find_sum(4, 5)
 ```
-
+::: details output
+```
+3
+9
+```
+:::
 ### Fills the color
 
 main.py
@@ -42,6 +52,9 @@ def rect():
 
 rect()
 ```
+::: details output
+![image](./img/1.png)
+:::
 
 #### Add line color
 
@@ -61,6 +74,9 @@ def rect():
 
 rect()
 ```
+::: details output
+![image](./img/2.png)
+:::
 
 #### Fills the color
 
@@ -82,6 +98,9 @@ def rect():
 
 rect()
 ```
+::: details output
+![image](./img/3.png)
+:::
 
 ### Create a Star!
 
@@ -98,6 +117,9 @@ def star(n_point):
   
 star(5)
 ```
+::: details output
+![image](./img/4.png)
+:::
 
 ```py{11-19,22,25,27,29}
 from turtle import *
@@ -132,10 +154,10 @@ move_pen_forward(80)
 star(11)
 ```
 
-output
+::: details output
 
 ![Image](./01.png)
-
+:::
 ### Add the color!
 ```py{5,27,30,32,34}
 from turtle import *
@@ -173,5 +195,6 @@ star(9,"#B664A0","#82CD21")
 move_pen_forward(80)
 star(11,"#55483E","#EC6091")
 ```
-
+::: details output
 ![Image](./02.png)
+:::

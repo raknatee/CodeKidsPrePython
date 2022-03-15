@@ -31,16 +31,54 @@ print("Hey!")
 for i in range(10):
     print("Hey!")
 ```
+::: details output
+```
+Hey!
+Hey!
+Hey!
+Hey!
+Hey!
+Hey!
+Hey!
+Hey!
+Hey!
+Hey!
+```
+:::
+
 
 ```python
 for i in range(10):
     print(i)
 ```
+::: details output
+```
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+```
+:::
 
 ```python
 for i in range(10,15):
     print(i)
 ```
+::: details output
+```
+10
+11
+12
+13
+14
+```
+:::
 
 ### While loop
 - while(**boolean**) => stops when **boolean** is False
@@ -50,12 +88,35 @@ while(i<10):
     print("Hey!")
     i = i + 1
 ```
+::: details output
+```
+Hey!
+Hey!
+Hey!
+Hey!
+Hey!
+Hey!
+Hey!
+Hey!
+Hey!
+Hey!
+```
+:::
 ```python
 i=0
 while(i<10):
     print(i)
     i = i + 2
 ```
+::: details output
+```
+0
+2
+4
+6
+8
+```
+:::
 
 ### Loop in Loop in Loop and in Loop
 ```python
@@ -64,6 +125,30 @@ for i in range(5):
         print("*")
     print("-----")
 ```
+::: details output
+```
+*
+-----
+*
+*
+-----
+*
+*
+*
+-----
+*
+*
+*
+*
+-----
+*
+*
+*
+*
+*
+-----
+```
+:::
 
 ## Exercises
 PythonExercise.pdf Page 21 (Only No.1 and 2)

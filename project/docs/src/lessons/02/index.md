@@ -33,6 +33,15 @@ print(friends[1])   # David
 print(friends[2])   # Anthony
 print(friends[3])   # Larry
 ```
+::: details output
+```
+4
+James
+David
+Anthony
+Larry
+```
+:::
 
 ### Boolean, Logic and Condition
 
@@ -44,6 +53,12 @@ print(bool1)
 bool2 = False
 print(bool2)
 ```
+::: details output
+```
+True
+False
+```
+:::
 
 #### Logical operators
 
@@ -77,6 +92,14 @@ print(answer2)
 print(answer3)
 print(answer4)
 ```
+::: details output
+```
+False
+False
+True
+False
+```
+:::
 
 #### Condition
 ::: warning
@@ -92,22 +115,36 @@ if ...
 pink_bees = 2
 blue_bees = 4
 if(pink_bees < blue_bees):
-	print("There are Pink Bees less than Blue Bees")
+	print("There are Pink Bees less than Blue Bees.")
 ```
+::: details output
+```
+There are Pink Bees less than Blue Bees.
+```
+:::
 ```python
 pink_bees = 5
 blue_bees = 4
 if(pink_bees < blue_bees):
-	print("There are Pink Bees less than Blue Bees")
+	print("There are Pink Bees less than Blue Bees.")
 ```
+::: details output
+```
+```
+:::
 ```python{5,6}
 pink_bees = 5
 blue_bees = 4
 if(pink_bees < blue_bees):
-	print("There are Pink Bees less than Blue Bees")
+	print("There are Pink Bees less than Blue Bees.")
 else:
-	print("There are Pink Bees more than Blue Bees")
+	print("There are Pink Bees more than Blue Bees.")
 ```
+::: details output
+```
+There are Pink Bees more than Blue Bees.
+```
+:::
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTA0NDUxMDA5MiwxOTkyODI1MjIzLDE0Nz
 E4MTMxNTksNzMwOTk4MTE2XX0=

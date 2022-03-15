@@ -48,6 +48,9 @@ my_turtle.forward(50)
 my_turtle.color("red")
 my_turtle.forward(50)
 ```
+::: details output
+![image](./img/1.png)
+:::
 #### [pensize](https://docs.python.org/3/library/turtle.html#turtle.pensize)
 - a positive number
 
@@ -62,6 +65,9 @@ my_turtle.forward(50)
 my_turtle.pensize(5)
 my_turtle.forward(50)
 ```
+::: details output
+![image](./img/2.png)
+:::
 
 ## Code a Square Spirograph
 
@@ -80,6 +86,9 @@ def rect():
       
 rect()
 ```
+::: details output
+![image](./img/3.png)
+:::
 
 ### Step 2: More!
 
@@ -98,6 +107,9 @@ rect()
 my_turtle.left(12)
 rect()
 ```
+::: details output
+![image](./img/4.png)
+:::
 
 ### Step 3: More and More and More! with loop
 
@@ -116,6 +128,9 @@ for i in range(10):
     rect()
     my_turtle.left(12)
 ```
+::: details output
+![image](./img/5.png)
+:::
 
 ### Step 4: Set speed and pensize
 
@@ -137,6 +152,10 @@ for i in range(10):
     rect()
     my_turtle.left(12)
 ```
+::: details output
+![image](./img/5.png)
+:::
+
 
 ### Step 5: Coloring
 
@@ -159,6 +178,9 @@ for each_color in ["red","#148F77","blue","#FFC300","black"]:
     rect()
     my_turtle.left(12)
 ```
+::: details output
+![image](./img/6.png)
+:::
 
 ### Step 6: Repeat this Spirograph again and again
 
@@ -182,3 +204,7 @@ for i in range(5):
         rect()
         my_turtle.left(12)
 ```
+
+::: details output
+![image](./img/7.png)
+:::

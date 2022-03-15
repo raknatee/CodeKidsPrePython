@@ -22,10 +22,20 @@ How will Python be important in the future?
 ```python
 age = 12 # we assigned the value to "age" variable
 ```
+
+::: details output
+```
+```
+:::
 ```python
 age = 12
 print(age)
 ```
+::: details output
+```
+12
+```
+:::
 #### Naming Dos and Don'ts
 - Start with a letter
 - Symbols and spaces are not allowed (-, /, #, @) 
@@ -43,12 +53,22 @@ x = 50
 y = x * 5
 print(y)
 ```
+::: details output
+```
+250
+```
+:::
 Try to change a value!
 ```python
 x = 100
-y = x + 5
-print(y)
+x = x + 5
+print(x)
 ```
+::: details output
+```
+105
+```
+:::
 
 ### Strings
 
@@ -57,6 +77,11 @@ print(y)
 my_name = "Ally Alien"
 print(my_name)
 ```
+::: details output
+```
+Ally Alien
+```
+:::
 
 ####  Combination
 ```python
@@ -65,17 +90,32 @@ last_name = "Alien"
 full_name = first_name + last_name
 print(full_name)
 ```
+::: details output
+```
+AllyAlien
+```
+:::
 ```python
 first_name = "Ally"
 last_name = "Alien"
 print(first_name + last_name)
 ```
+::: details output
+```
+AllyAlien
+```
+:::
 #### length of a string
 
 ```python
 my_name = "Ally Alien"
-print(len(my_name)) # 10
+print(len(my_name))
 ```
+::: details output
+```
+10
+```
+:::
 
 ### Comment
 ```python
@@ -84,6 +124,11 @@ print(len(my_name)) # 10
 print("Hello 3") # print("Hello 6")
 # print("Hello 4")
 ```
+::: details output
+```
+Hello 3
+```
+:::
 
 ## Exercises
 PythonExercise.pdf Page 14-17

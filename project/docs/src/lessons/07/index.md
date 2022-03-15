@@ -19,6 +19,9 @@ my_turtle = Turtle()
 my_turtle.forward(50)
 my_turtle.forward(50)
 ```
+::: details output
+![image](./img/1.png)
+:::
 
 main.py
 ```python{5,7}
@@ -31,6 +34,10 @@ my_turtle.forward(50)
 my_turtle.pendown()
 my_turtle.forward(50)
 ```
+::: details output
+![image](./img/2.png)
+:::
+
 
 ## Codeing
 
@@ -48,6 +55,9 @@ my_turtle.circle(10)
 my_turtle.circle(20)
 my_turtle.circle(30)
 ```
+::: details output
+![image](./img/3.png)
+:::
 
 - refactor
 
@@ -60,7 +70,9 @@ my_turtle = Turtle()
 for i in range(3):
     my_turtle.circle( 10*(i+1) )
 ```
-
+::: details output
+![image](./img/3.png)
+:::
 - Coloring
 
 main.py
@@ -73,6 +85,9 @@ for i, each_color in enumerate(["red","#148F77","blue","#FFC300","black"]):
     my_turtle.color(each_color)
     my_turtle.circle( 10*(i+1) )
 ```
+::: details output
+![image](./img/4.png)
+:::
 
 - More effects
 
@@ -90,10 +105,9 @@ for i, each_color in enumerate(["red","#148F77","blue","#FFC300","black"]):
     my_turtle.color(each_color)
     my_turtle.circle( 10*(i+1) )
 ```
-output
-
+::: details output
 ![image](./01.png)
-
+:::
 main.py
 ```python{6}
 from turtle import *
@@ -106,6 +120,7 @@ for i, each_color in enumerate(["red","#148F77","blue","#FFC300","black"]):
     my_turtle.color(each_color)
     my_turtle.circle( 10*(i+1) )
 ```
-output
+::: details output
 
 ![image](./02.png)
+:::

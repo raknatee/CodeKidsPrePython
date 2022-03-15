@@ -18,4 +18,13 @@ docker-compose exec project bash
 yarn dev
 ```
 
+## Run deploy Github Page
+
+```sh
+docker-compose up --build -d
+```
+```sh
+docker-compose exec yarn build
+```
+
 Happy coding.

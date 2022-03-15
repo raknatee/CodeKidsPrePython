@@ -183,10 +183,10 @@ for i in range(10):
     move_pen_to(x,y)
     star(star_point, "black", "black")
 ```
-output
+::: details output
 
 ![Image](./01.png)
-
+:::
 ### Coloring
 
 main.py
@@ -234,6 +234,7 @@ for i in range(10):
     star(star_point, line_color, fill_color)
 ```
 
-output
+::: details output
 
 ![Image](./02.png)
+:::
