@@ -20,7 +20,7 @@ module.exports = {
         ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
         ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
     ],
-    base: "/CodeKidsPrePython/",
+    // base: "/CodeKidsPrePython/",
     dest: "/home/deploy",
     /**
      * Theme configuration, here is the default theme configuration for VuePress.
