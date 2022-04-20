@@ -1,5 +1,5 @@
 ![img](./logo.png)
-
+ 
 # Lessons
 
 ## [Lesson 1: Introduction and Variables](./lessons/01/index.md)
