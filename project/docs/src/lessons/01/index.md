@@ -9,9 +9,9 @@ Why should we have to learn it?
 
 How will Python be important in the future?
 
-[https://www.youtube.com/watch?v=XMZFUnAgOqs](https://www.youtube.com/watch?v=XMZFUnAgOqs)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XMZFUnAgOqs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[https://www.youtube.com/watch?v=Y8Tko2YC5hA](https://www.youtube.com/watch?v=Y8Tko2YC5hA)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Y8Tko2YC5hA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Tools
 [https://trinket.io/](https://trinket.io/)

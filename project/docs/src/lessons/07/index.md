@@ -39,7 +39,7 @@ my_turtle.forward(50)
 :::
 
 
-## Codeing
+## Coding
 
 ### Circle
 
